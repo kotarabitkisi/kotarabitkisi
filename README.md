@@ -1,14 +1,15 @@
 # Hi there, I'm Emre Can! 👋
 
-**Unity Developer** & **Mathematics Engineering Student**
+**Unity Developer** & **Mathematical Engineering Student**
 
-I am a Mathematical Engineering student at **Yıldız Technical University**. I combine my mathematical background with my passion for game development to create **performance-oriented** gameplay mechanics and **algorithmic** systems using Unity & C#.
+I am a Mathematical Engineering student at **Yıldız Technical University**. I combine my mathematical background with my passion for game development to learn and create different gameplay mechanics and systems using Unity & C#.
 
 ---
 
 ### 🚀 About Me
 
 - 🎓 **Education:** Mathematical Engineering at Yıldız Technical University.
+- 🧱 **Structured Training:** Completed programs at **Üretken Akademi** (Dijital Oyun Fabrikası) and **Game Factory** (Junior Factory).
 - 🏆 **Achievement:** Ranked **7th** at Yıldız Jam 2024 (48-hour Game Jam).
 
 ---
