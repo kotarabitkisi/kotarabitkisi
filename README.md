@@ -2,7 +2,7 @@
 
 **Unity Developer** & **Mathematical Engineering Student**
 
-I am a Mathematical Engineering student at **Yıldız Technical University**. I combine my mathematical background with my passion for game development to learn and create unique gameplay mechanics and systems using Unity & C#.
+I am a Mathematical Engineering student at **Yıldız Technical University**. I combine my mathematical background with my passion for game development to design and implement unique gameplay mechanics and systems using Unity & C#.
 
 ---
 
